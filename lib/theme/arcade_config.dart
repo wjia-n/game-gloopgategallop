@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'gloopgategalloptaco',
   tip2Id: 'gloopgategallopwaffle',
-  tip1Label: '💛 Buy me a taco',
-  tip2Label: '💛 Buy me a waffle',
+  tip1Label: '💛 Gloop Gate Gallop — Taco tip',
+  tip2Label: '💛 Gloop Gate Gallop — Waffle tip',
 );
